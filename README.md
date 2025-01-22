@@ -1,1 +1,1 @@
-# Javascript-Interview-question
+# Javascript-Praties
